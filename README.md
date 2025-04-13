@@ -1,11 +1,11 @@
 ![logo](https://github.com/Sachin28102001/Sachin28102001/blob/main/Github_banner.png)
 <h1 align="center">Hi 👋, I'm Sachin Jha</h1>
-<h3 align="center">A passionate Backend(Node JS) developer from India.</h3>
+<h3 align="center">A passionate DevOps/SRE Engineer from India.</h3>
 <img algin="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachin28102001&label=Profile%20views&color=0e75b6&style=flat" alt="sachin28102001" /> </p>
 
-- 🌱 I’m currently learning **NodeJS,Docker & K8.**
+- 🌱 I’m currently learning **AIOps.**
 
 - 📫 How to reach me **sj735215@gmail.com**
 
