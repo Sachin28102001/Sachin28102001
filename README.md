@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **sj735215@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1WX7nCnm9m_PYVTtAIGSgwD_A66oiDvCb/view?usp=drivesdk](https://drive.google.com/file/d/1WX7nCnm9m_PYVTtAIGSgwD_A66oiDvCb/view?usp=drivesdk)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1QrARH64KHF4bkZQr7QzkwI4lkhxBsllY/view?usp=drivesdk)
 
 - ⚡ Fun fact **I think I am funny.**
 
